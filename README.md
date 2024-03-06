@@ -18,4 +18,4 @@ Listando turmas e estudantes.
 
 Deletando turma e estudante
 
-![deletandoTurma](deletandoTurma.png)   ![deletandoEstudante](deletandoEstudante.png)
+![deletandoTurma](deletandoTurma.png)   ![apagandoEstudante](apagandoEstudante.png)
