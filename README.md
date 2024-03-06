@@ -4,3 +4,18 @@ Projeto feito para a realização de cadastro de turmas e alunos, com o objetivo
 
 # Mostrando o programa
 
+Apresentação do menu e cadastro de turma.
+
+![Menu](menu1.png)
+
+Fazendo cadastro do estudante.
+
+![cadastroEstudante](cadastroEstudante.png)
+
+Listando turmas e estudantes.
+
+![listarTurmas](listarTurma.png)  ![listarEstudante](listarEstudante.png)
+
+Deletando turma e estudante
+
+![deletandoTurma](deletandoTurma.png)   ![deletandoEstudante](deletandoEstudante.png)
