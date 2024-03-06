@@ -1,6 +1,6 @@
 # Sobre o projeto
 
-Projeto feito para a realização de cadastro de turmas e alunos, com o objetivo de praticar conceitos de CRUD (Create,Read,Update,Delete) e também aprimorara os conceitos de encapsulamento.
+<b>Projeto feito para a realização de cadastro de turmas e alunos, com o objetivo de praticar conceitos de CRUD (Create,Read,Update,Delete) e também aprimorara os conceitos de encapsulamento.</b>
 
 # Mostrando o programa
 
@@ -19,3 +19,14 @@ Listando turmas e estudantes.
 Deletando turma e estudante
 
 ![deletandoTurma](deletandoTurma.png)   ![apagandoEstudante](apagandoEstudante.png)
+
+# Tecnologias utilizadas
+## Backend
+
+* Java
+
+# Contato
+
+Linkedin: www.linkedin.com/in/joséwolf
+
+email: josewolf401@gmail.com
